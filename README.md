@@ -35,8 +35,8 @@
 
 * Clone the repository:
     ```bash
-    git clone https://github.com/drowning14/security-discord-bot-discord-js
-    cd security-discord-bot-discord-js
+    git clone https://github.com/drowning14/security-discord-bot-nodejs
+    cd security-discord-bot-nodejs
     ```
 * Install dependencies:
     ```bash
@@ -71,7 +71,7 @@ Contributions are welcome! To suggest improvements or add features:
 
 If you encounter any issues or bugs while using the bot, please let me know! You can report bugs by following these steps:
 
-1. Go to the [Issues page](https://github.com/drowning14/security-discord-bot-discord-js/issues) of this repository.
+1. Go to the [Issues page](https://github.com/drowning14/security-discord-bot-nodejs/issues) of this repository.
 2. Click on **New Issue** and select **Bug Report**.
 3. Provide a descriptive title and detailed information about the issue:
     - Describe the bug.
