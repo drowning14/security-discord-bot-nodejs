@@ -81,3 +81,5 @@ If you encounter any issues or bugs while using the bot, please let me know! You
 4. Submit the issue, and we’ll look into it as soon as possible.
 
 Your feedback helps improve the bot for everyone! Thank you for contributing to its development.
+
+don't forget star :)
